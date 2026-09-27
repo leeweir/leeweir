@@ -2,7 +2,7 @@
 
 **Agent Infra · AI Infra · Game Infra · Cloud Native · SRE · DevOps · AIOps · FinOps**
 
-Welcome to my GitHub profile.
+I lead Infrastructure and Site Reliability Engineering (SRE) at **HYPERGRYPH**.
 
 ### Focus Areas
 
@@ -14,6 +14,10 @@ Welcome to my GitHub profile.
 - **DevOps** — Development and operations
 - **AIOps** — AI for IT operations
 - **FinOps** — Cloud financial management and cost optimization
+
+### Join HYPERGRYPH
+
+Interested in joining **HYPERGRYPH**? Feel free to reach out — I'd love to connect.
 
 ### Find Me
 
