@@ -11,7 +11,3 @@ My focus spans infrastructure for agents, AI, and games, with cloud-native platf
 ### Join HYPERGRYPH
 
 Interested in joining **HYPERGRYPH**? Feel free to reach out — I'd love to connect.
-
-### Find Me
-
-[Blog](http://leeweir.github.io) · [GitHub Projects](https://github.com/leeweir?tab=repositories)
