@@ -4,16 +4,9 @@
 
 I lead Infrastructure and Site Reliability Engineering (SRE) at **HYPERGRYPH**.
 
-### Focus Areas
+### What I Focus On
 
-- **Agent Infra** — Infrastructure for AI agents
-- **AI Infra** — Infrastructure for AI workloads
-- **Game Infra** — Infrastructure for games and gaming services
-- **Cloud Native** — Cloud-native systems and platforms
-- **SRE** — Site reliability engineering
-- **DevOps** — Development and operations
-- **AIOps** — AI for IT operations
-- **FinOps** — Cloud financial management and cost optimization
+My focus spans infrastructure for agents, AI, and games, with cloud-native platforms as the foundation. I care about making these systems reliable, easy to operate, and cost-efficient through SRE, DevOps, AIOps, and FinOps practices.
 
 ### Join HYPERGRYPH
 
