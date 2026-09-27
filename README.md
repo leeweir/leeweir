@@ -1,16 +1,20 @@
 # Hi, I'm Weir 👋
 
-**Cloud Native · SRE · DevOps · AIOps · FinOps · Infrastructure**
+**Agent Infra · AI Infra · Game Infra · Cloud Native · SRE · DevOps · AIOps · FinOps**
 
-欢迎来到我的 GitHub 主页。
+Welcome to my GitHub profile.
 
-### 关注方向
+### Focus Areas
 
-- ☁️ **Cloud Native & Infrastructure** — 云原生与基础设施
-- 🛠️ **SRE & DevOps** — 可靠性工程与开发运维
-- 🤖 **AIOps** — 智能运维
-- 📊 **FinOps** — 云成本管理与优化
+- **Agent Infra** — Infrastructure for AI agents
+- **AI Infra** — Infrastructure for AI workloads
+- **Game Infra** — Infrastructure for games and gaming services
+- **Cloud Native** — Cloud-native systems and platforms
+- **SRE** — Site reliability engineering
+- **DevOps** — Development and operations
+- **AIOps** — AI for IT operations
+- **FinOps** — Cloud financial management and cost optimization
 
-### 找到我
+### Find Me
 
-[个人博客](http://leeweir.github.io) · [GitHub 项目](https://github.com/leeweir?tab=repositories)
+[Blog](http://leeweir.github.io) · [GitHub Projects](https://github.com/leeweir?tab=repositories)
