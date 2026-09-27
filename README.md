@@ -1,4 +1,4 @@
-# Hi, I'm Weir 👋
+## Hi, I'm Weir 👋
 
 I lead Infrastructure and Site Reliability Engineering (SRE) at **HYPERGRYPH**.
 
